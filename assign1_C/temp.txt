@@ -1,0 +1,45 @@
+==1906== Memcheck, a memory error detector
+==1906== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==1906== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==1906== Command: ./concord2 in08.txt -e latin.txt 2
+==1906== 
+ALIAM        belgae aliam aquitani tertiam qui ipsorum lingua celtae (2)
+APPELLANTUR  nostra galli appellantur hi omnes lingua institutis (3)
+AQUITANI     belgae aliam aquitani tertiam qui ipsorum lingua celtae (2)
+BELGAE       belgae aliam aquitani tertiam qui ipsorum lingua celtae (2)
+CELTAE       belgae aliam aquitani tertiam qui ipsorum lingua celtae (2)
+DIFFERUNT    legibus inter se differunt (4)
+DIVISA       gallia est omnis divisa in partes tres quarum unam incolunt (1)
+GALLI        nostra galli appellantur hi omnes lingua institutis (3)
+GALLIA       gallia est omnis divisa in partes tres quarum unam incolunt (1)
+INCOLUNT     gallia est omnis divisa in partes tres quarum unam incolunt (1)
+INSTITUTIS   nostra galli appellantur hi omnes lingua institutis (3)
+INTER        legibus inter se differunt (4)
+IPSORUM      belgae aliam aquitani tertiam qui ipsorum lingua celtae (2)
+LEGIBUS      legibus inter se differunt (4)
+LINGUA       belgae aliam aquitani tertiam qui ipsorum lingua celtae (2)
+LINGUA       nostra galli appellantur hi omnes lingua institutis (3)
+NOSTRA       nostra galli appellantur hi omnes lingua institutis (3)
+OMNES        nostra galli appellantur hi omnes lingua institutis (3)
+OMNIS        gallia est omnis divisa in partes tres quarum unam incolunt (1)
+PARTES       gallia est omnis divisa in partes tres quarum unam incolunt (1)
+QUARUM       gallia est omnis divisa in partes tres quarum unam incolunt (1)
+TERTIAM      belgae aliam aquitani tertiam qui ipsorum lingua celtae (2)
+TRES         gallia est omnis divisa in partes tres quarum unam incolunt (1)
+UNAM         gallia est omnis divisa in partes tres quarum unam incolunt (1)
+==1906== 
+==1906== HEAP SUMMARY:
+==1906==     in use at exit: 552 bytes in 1 blocks
+==1906==   total heap usage: 5 allocs, 4 frees, 13,392 bytes allocated
+==1906== 
+==1906== LEAK SUMMARY:
+==1906==    definitely lost: 0 bytes in 0 blocks
+==1906==    indirectly lost: 0 bytes in 0 blocks
+==1906==      possibly lost: 0 bytes in 0 blocks
+==1906==    still reachable: 552 bytes in 1 blocks
+==1906==         suppressed: 0 bytes in 0 blocks
+==1906== Reachable blocks (those to which a pointer was found) are not shown.
+==1906== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==1906== 
+==1906== For counts of detected and suppressed errors, rerun with: -v
+==1906== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

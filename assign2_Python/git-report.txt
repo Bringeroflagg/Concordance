@@ -1,0 +1,45 @@
+Report based on 'git clone' for state of repos on 2021-06-28 12:05 AM
+
+Each line below uses the format of:
+* netlink ID (first and last characters)
+* student number (last three digits)
+* location in student's repo in which needed file was found
+
+a***g 701 a2/concord2.py
+a***l 408 a2/concord2.py
+a***m 885 a2/concord2.py
+a***s 116 a2/concord2.py
+b***j 287 a2/concord2.py
+b***n 985 a2/concord2.py
+c***k 374 a2/concord2.py
+c***k 793 a2/concord2.py
+c***l 378 a2/concord2.py
+c***o 634 a2/concord2.py
+c***u 532 a2/concord2.py
+d***n 518 a2/concord2.py
+d***s 658 a2/concord2.py
+d***w 787 a2/concord2.py
+e***r 872 a2/concord2.py
+f***n 356 a2/concord2.py
+g***k 664 a2/concord2.py
+g***o 964 a2/concord2.py
+h***e 956 a2/concord2.py
+h***g 538 a2/concord2.py
+h***w 087 a2/concord2.py
+i***n 331 a2/concord2.py
+j***2 703 a2/concord2.py
+j***a 535 a2/concord2.py
+j***c 350 a2/concord2.py
+m***n 172 a2/concord2.py
+m***r 515 a2/concord2.py
+m***y 559 a2/concord2.py
+r***o 516 a2/concord2.py
+s***a 916 a2/concord2.py
+s***g 262 a2/concord2.py
+s***h 351 a2/concord2.py
+t***8 188 a2/concord2.py
+t***o 680 a2/concord2.py
+t***y 721 a2/concord2.py
+v***u 074 a2/concord2.py
+x***2 447 a2/concord2.py
+x***g 490 a2/concord2.py

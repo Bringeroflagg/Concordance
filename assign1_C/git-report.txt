@@ -1,0 +1,65 @@
+Report based on 'git clone' for state of repos on 2021-06-14 6:00 PM
+
+Each line below uses the format of:
+* netlink ID (first and last characters)
+* student number (last three digits)
+* location in student's repo in which needed file was found
+
+a***d 095 a1/concord1.c
+a***g 355 concord1.c
+a***g 701 a1/concord1.c
+a***l 408 a1/concord1.c
+a***m 885 a1/concord1.c
+a***s 116 a1/concord1.c
+a***s 263 a1/concord1.c
+a***t 639 a1/concord1.c
+b***j 287 a1/concord1.c
+b***n 985 a1/concord1.c
+c***g 964 assignments/assignment1/concord1.c  <-- WRONG DIRECTORY!
+c***k 374 a1/concord1.c
+c***k 793 a1/concord1.c
+c***o 634 a1/concord1.c
+c***u 532 assignments/a1/concord1.c   <-- Wrong directory
+d***n 518 a1/concord1.c
+d***s 658 a1/concord1.c
+d***w 787 a1/concord1.c
+e***r 872 a1/concord1.c
+e***s 801 a1/concord1.c
+f***n 356 a1/concord1.c
+g***k 664 a1/concord1.c
+g***o 964 a1/concord1.c
+g***u 607 a1/concord1.c
+h***2 171 a1/concord1.c
+h***e 956 a1/concord1.c
+h***g 538 a1/concord1.c
+h***k 814 a1/concord1.c
+h***w 087 a1/concord1.c
+j***2 703 a1/concord1.c
+j***a 535 a1/concord1.c
+j***c 350 a1/concord1.c
+j***u 075 a1/concord1.c
+k***g 475 a1/concord1.c
+m***e 610 a1/concord1.c
+m***i 000 a1/concord1.c
+m***n 172 a1/concord1.c
+m***n 467 a1/concord1.c
+m***r 515 a1/concord1.c
+m***y 559 a1/concord1.c
+n***i 216 a1/concord1.c
+p***c 381 a1/concord1.c
+p***n 753 a1/concord1.c
+r***g 789 a1/concord1.c
+r***o 516 a1/concord1.c
+s***g 262 a1/concord1.c
+s***h 351 a1/concord1.c
+s***n 075 a1/concord1.c
+s***u 758 a1/concord1.c
+s***v 762 a1/concord1.c
+t***8 188 a1/concord1.c
+v***l 333 a1/concord1.c
+v***u 074 a1/concord1.c
+x***2 447 a1/concord1.c
+x***g 490 a1/concord1.c
+y***g 048 a1/concord1.c
+y***g 413 a1/concord1.c
+z***g 027 a1/concord1.c
