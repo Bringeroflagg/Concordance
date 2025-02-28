@@ -6,7 +6,7 @@ Example:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **1. assign1_C - C Programming Assignment**
-- This assignment was implemented in C and focuses on fundamental programming concepts: loops,input/output, functions, data structures, and pointers.
+- This assignment was implemented in C and focuses on fundamental programming concepts: loops, input/output, functions, data structures, and pointers.
 
 **2. assign2_Python - Python Programming Assignment**
 - File handling and python principles.
